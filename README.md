@@ -21,7 +21,7 @@ I was learning Web Dev for a long time but didn't had any projects to practice o
 ![Mobile view](./Screenshots/phone.png)
 ### Links
 
-- Solution repository over GitHub: https://github.com/varuno3/FEM-QRCodeComponent.git
+- Solution repository over GitHub: https://github.com/varuno3/FEM_qrCodeComponent.git
 
 ### Built with
 
